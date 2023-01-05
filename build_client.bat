@@ -1,0 +1,1 @@
+cd client && pyinstaller --onefile --name SEC_client --icon None main.py
